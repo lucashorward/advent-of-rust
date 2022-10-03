@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 members = [
-    "day1"
+    "day1",
+    "day2"
 ]
