@@ -1,0 +1,8 @@
+[workspace]
+name = "advent-of-code"
+version = "0.1.0"
+edition = "2021"
+
+members = [
+    "day1"
+]

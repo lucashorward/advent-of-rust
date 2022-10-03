@@ -1,0 +1,1 @@
+This is a small project where I do some of the advent-of-code puzzles as listed on https://adventofcode.com/, in Rust!
