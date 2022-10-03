@@ -28,7 +28,7 @@ fn sonar_sweep(diffs: Vec<i32>) -> i32 {
         i += 1;
     }
     let amount_increased: usize = results.iter().filter(|&n| *n == DepthChange::Increased).count();
-    print!("{} change(s) were an increase!\n", amount_increased);
+    println!("{} change(s) were an increase!", amount_increased);
     return amount_increased as i32;
 }
 
